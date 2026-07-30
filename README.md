@@ -20,6 +20,7 @@
 ## String
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -47,4 +48,16 @@
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
