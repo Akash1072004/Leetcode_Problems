@@ -19,6 +19,7 @@
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -108,6 +109,7 @@
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Binary Search
@@ -178,8 +180,10 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
