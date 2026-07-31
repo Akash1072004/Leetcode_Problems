@@ -27,6 +27,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -36,6 +37,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -87,6 +89,7 @@
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -105,4 +108,8 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
