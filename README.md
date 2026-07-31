@@ -31,6 +31,7 @@
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0115-distinct-subsequences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -99,6 +100,7 @@
 | [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0115-distinct-subsequences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
