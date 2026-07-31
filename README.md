@@ -133,4 +133,24 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
