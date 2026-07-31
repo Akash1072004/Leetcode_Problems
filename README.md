@@ -13,6 +13,7 @@
 | [0001-two-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 ## Hash Table
 |  |
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -90,6 +92,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
