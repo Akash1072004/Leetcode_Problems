@@ -20,6 +20,7 @@
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -213,4 +215,9 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
