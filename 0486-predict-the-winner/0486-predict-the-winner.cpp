@@ -2,7 +2,7 @@ class Solution {
 public:
     int f(vector<int>& nums, int i, int j, bool turn) {
         if(i > j) return 0;
-        int ans;
+        int ans = 0;
         if(!turn) {
             ans = -1e9;
             ans = max(ans, nums[i]+f(nums, i+1, j, true));
