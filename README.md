@@ -169,6 +169,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
@@ -223,6 +224,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1203-sort-items-by-groups-respecting-dependencies) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -332,8 +334,14 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
