@@ -16,51 +16,51 @@ public:
         ll low = 0, high = 1e18;
         ll ans = high;
         sort(boosts.begin(), boosts.end(), cmp);
-        vector<vector<ll>> v;
-        int i = 0;
-        while(i < m) {
-            int start = boosts[i][0];
-            int end = boosts[i][1];
-            int val = boosts[i][2];
+        // vector<vector<ll>> v;
+        // int i = 0;
+        // while(i < m) {
+        //     int start = boosts[i][0];
+        //     int end = boosts[i][1];
+        //     int val = boosts[i][2];
 
-            if(i+1 < m && start == boosts[i+1][0]) {
-                if(end < boosts[i+1][1]) {
-                    v.push_back({start, end, val+boosts[i+1][2]});
-                    v.push_back({end+1, boosts[i+1][1], boosts[i+1][2]});
-                }
-                else {
-                    v.push_back({start, end, val+boosts[i+1][2]});
-                }
-            }
-            else if(i+1 < m && start < boosts[i+1][0]) {
-                if(end > boosts[i+1][0] && end < boosts[i+1][1]) {
-                    v.push_back({start, end, val+boosts[i+1][2]});
-                    v.push_back({end+1, boosts[i+1][1], boosts[i+1][2]});
-                }
-                else if(end > boosts[i+1][0] && end == boosts[i+1][1]){
-                    v.push_back({start, end, val+boosts[i+1][2]});
-                }
-            }
-            else {
-                v.push_back({start, end, val});
-            }
-            i++;
-        }
+        //     if(i+1 < m && start == boosts[i+1][0]) {
+        //         if(end < boosts[i+1][1]) {
+        //             v.push_back({start, end, val+boosts[i+1][2]});
+        //             v.push_back({end+1, boosts[i+1][1], boosts[i+1][2]});
+        //         }
+        //         else {
+        //             v.push_back({start, end, val+boosts[i+1][2]});
+        //         }
+        //     }
+        //     else if(i+1 < m && start < boosts[i+1][0]) {
+        //         if(end > boosts[i+1][0] && end < boosts[i+1][1]) {
+        //             v.push_back({start, end, val+boosts[i+1][2]});
+        //             v.push_back({end+1, boosts[i+1][1], boosts[i+1][2]});
+        //         }
+        //         else if(end > boosts[i+1][0] && end == boosts[i+1][1]){
+        //             v.push_back({start, end, val+boosts[i+1][2]});
+        //         }
+        //     }
+        //     else {
+        //         v.push_back({start, end, val});
+        //     }
+        //     i++;
+        // }
 
-        vector<ll> diff(n + 1, 0);
+        vector<ll> diff(n+1, 0);
 
         for(int j = 0; j < m; j++) {
             int s = boosts[j][0];
             int e = boosts[j][1];
             ll val = boosts[j][2];
             diff[s] += val;
-            if(e + 1 < n) diff[e + 1] -= val;
+            if(e+1 < n) diff[e+1] -= val;
         }
 
         vector<ll> v2(n, 0);
         v2[0] = diff[0];
         for(int j = 1; j < n; j++) {
-            v2[j] = v2[j - 1] + diff[j];
+            v2[j] = v2[j-1] + diff[j];
         }
 
         while(low <= high) {
