@@ -40,6 +40,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -84,6 +85,7 @@
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting
@@ -170,6 +173,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
