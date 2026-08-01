@@ -22,6 +22,7 @@
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -133,6 +134,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
