@@ -32,6 +32,7 @@
 | [0322-coin-change](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -149,6 +150,7 @@
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
