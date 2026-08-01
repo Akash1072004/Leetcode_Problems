@@ -12,6 +12,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Array
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -192,6 +194,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 ## Binary Search
 |  |
@@ -251,6 +254,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -337,6 +341,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -367,6 +372,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Binary Tree
 |  |
 | ------- |
