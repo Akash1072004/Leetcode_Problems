@@ -70,6 +70,7 @@
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [1092-shortest-common-supersequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -163,6 +164,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
