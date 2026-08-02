@@ -8,6 +8,7 @@
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -40,6 +41,7 @@
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0741-cherry-pickup) |
+| [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -183,6 +185,7 @@
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0741-cherry-pickup](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
 | [1092-shortest-common-supersequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -380,6 +383,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
 ## Tree
 |  |
