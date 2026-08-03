@@ -31,6 +31,7 @@
 | [0051-n-queens](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
@@ -248,6 +249,7 @@
 | [0046-permutations](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Two Pointers
 |  |
@@ -374,6 +376,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
