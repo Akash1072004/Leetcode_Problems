@@ -27,6 +27,7 @@
 | [0040-combination-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
@@ -243,6 +244,7 @@
 | [0037-sudoku-solver](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0046-permutations) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Two Pointers
 |  |
