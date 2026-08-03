@@ -41,6 +41,7 @@
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0741-cherry-pickup) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -185,6 +186,7 @@
 | [0403-frog-jump](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0741-cherry-pickup) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
@@ -234,6 +236,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Two Pointers
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -379,6 +383,7 @@
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
@@ -414,4 +419,8 @@
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
