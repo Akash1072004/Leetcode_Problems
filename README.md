@@ -10,6 +10,7 @@
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
+| [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -46,6 +47,7 @@
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -195,6 +197,7 @@
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
+| [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -385,6 +388,7 @@
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
+| [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 ## Tree
 |  |
 | ------- |
