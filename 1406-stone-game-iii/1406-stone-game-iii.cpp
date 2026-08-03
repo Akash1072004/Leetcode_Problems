@@ -24,7 +24,7 @@ public:
         int n = stoneValue.size();
         memset(dp, -1, sizeof dp);
         int ans = f(stoneValue, 0, true, n);
-        cout << ans << " ";
+        // cout << ans << " ";
         if(ans < 0) return "Bob";
         else if(ans > 0) return "Alice";
         else return "Tie";
