@@ -247,6 +247,7 @@
 | [0040-combination-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0052-n-queens-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Two Pointers
 |  |
