@@ -298,6 +298,7 @@
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Breadth-First Search
 |  |
@@ -314,6 +315,7 @@
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 ## Graph Theory
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
