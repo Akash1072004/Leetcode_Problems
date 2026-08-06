@@ -13,6 +13,7 @@
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -68,6 +69,7 @@
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -227,6 +229,7 @@
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1510-stone-game-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1563-stone-game-v](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -454,6 +457,7 @@
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1563-stone-game-v) |
 ## Tree
 |  |
 | ------- |
