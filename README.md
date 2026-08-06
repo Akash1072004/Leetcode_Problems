@@ -53,6 +53,7 @@
 | [0403-frog-jump](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0741-cherry-pickup](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0741-cherry-pickup) |
@@ -84,6 +85,7 @@
 | [0037-sudoku-solver](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0037-sudoku-solver) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -386,6 +388,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
