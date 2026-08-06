@@ -15,6 +15,7 @@
 | [1510-stone-game-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
@@ -475,4 +476,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1510-stone-game-iv) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
