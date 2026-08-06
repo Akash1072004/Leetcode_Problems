@@ -69,6 +69,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -246,6 +247,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
@@ -398,6 +400,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
@@ -505,4 +508,5 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
