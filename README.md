@@ -66,6 +66,7 @@
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -396,6 +397,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
+| [1480-running-sum-of-1d-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 ## Trie
