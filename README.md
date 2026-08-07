@@ -17,6 +17,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
@@ -118,6 +119,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -132,6 +134,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Sorting
@@ -278,6 +281,7 @@
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -484,6 +488,7 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 ## Bitmask
 |  |
