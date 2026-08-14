@@ -97,6 +97,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
@@ -121,6 +122,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -526,6 +528,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Ordered Set
 |  |
 | ------- |
