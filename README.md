@@ -67,6 +67,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1480-running-sum-of-1d-array) |
@@ -98,6 +99,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -137,6 +139,7 @@
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [2029-stone-game-ix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -438,6 +441,7 @@
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
