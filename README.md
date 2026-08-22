@@ -22,6 +22,7 @@
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 ## Array
 |  |
