@@ -8,8 +8,7 @@ public:
                 count++;
                 last = pos[i];
 
-                if(count == m)
-                    return true;
+                if(count == m) return true;
             }
         }
         return false;
