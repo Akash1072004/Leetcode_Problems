@@ -100,6 +100,7 @@
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
 | [3665-twisted-mirror-path-count](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
@@ -120,6 +121,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## String
