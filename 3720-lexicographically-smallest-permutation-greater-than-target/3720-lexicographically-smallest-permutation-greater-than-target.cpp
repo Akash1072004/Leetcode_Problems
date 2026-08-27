@@ -35,7 +35,7 @@ public:
         }
 
         while(!ans.empty()) {
-            int i = ans.size() - 1;
+            int i = ans.size()-1;
             mp[ans[i]]++;
             ans.pop_back();
 
