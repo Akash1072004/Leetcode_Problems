@@ -102,6 +102,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3819-rotate-non-negative-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3819-rotate-non-negative-elements) |
@@ -128,6 +129,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## String
 |  |
