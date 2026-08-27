@@ -109,6 +109,7 @@
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3809-best-reachable-tower](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3809-best-reachable-tower) |
 | [3819-rotate-non-negative-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3819-rotate-non-negative-elements) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
