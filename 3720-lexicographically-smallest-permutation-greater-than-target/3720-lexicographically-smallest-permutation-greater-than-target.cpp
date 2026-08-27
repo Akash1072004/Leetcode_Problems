@@ -39,8 +39,8 @@ public:
             mp[ans[i]]++;
             ans.pop_back();
 
-            for(char c = target[i] + 1; c <= 'z'; c++) {
-                if(mp[c] > 0) {
+            for(char c = 'a'; c <= 'z'; c++) {
+                if(mp[c] > 0 && c > target[i]) {
                     ans += c;
                     mp[c]--;
 
