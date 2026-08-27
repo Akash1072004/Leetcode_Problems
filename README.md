@@ -105,6 +105,7 @@
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -132,6 +133,7 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## String
@@ -207,6 +209,7 @@
 | [3663-find-the-least-frequent-digit](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -327,6 +330,7 @@
 | [0053-maximum-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -467,6 +471,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -484,6 +489,7 @@
 | [2906-construct-product-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Trie
 |  |
 | ------- |
@@ -632,4 +638,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
