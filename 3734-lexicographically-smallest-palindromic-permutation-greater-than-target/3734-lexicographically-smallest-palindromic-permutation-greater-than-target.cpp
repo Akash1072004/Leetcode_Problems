@@ -28,7 +28,6 @@ public:
             left += (j+'a');
             count[j] -= 2;
 
-            // bool newGreater = isGreater;
             if(target[i] < (j+'a')) isGreater = true;
             bool res = f(left, count, i+1, target, isGreater, n);
 
