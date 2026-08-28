@@ -168,6 +168,7 @@
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Greedy
@@ -354,6 +355,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Recursion
 |  |
 | ------- |
@@ -608,6 +610,7 @@
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
