@@ -88,6 +88,7 @@
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -197,6 +198,7 @@
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -568,6 +570,7 @@
 |  |
 | ------- |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Number Theory
 |  |
