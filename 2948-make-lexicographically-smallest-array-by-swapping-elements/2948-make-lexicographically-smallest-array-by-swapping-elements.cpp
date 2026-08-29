@@ -37,10 +37,6 @@ public:
             }
         }
 
-        // if(nums[n-1]-nums[n-2] > limit) {
-        //     graph[n-1] = {};
-        // }
-
         vis.assign(n, 0);
         vector<int> ans(n);
         for(int i = 0; i < n; i++) {
