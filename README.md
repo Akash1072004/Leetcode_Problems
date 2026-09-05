@@ -121,6 +121,7 @@
 | [3876-construct-uniform-parity-array-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3903-smallest-stable-index-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
@@ -507,6 +508,7 @@
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Trie
 |  |
 | ------- |
