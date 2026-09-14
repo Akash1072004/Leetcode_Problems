@@ -8,6 +8,7 @@
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0836-rectangle-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
@@ -729,4 +730,8 @@
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
