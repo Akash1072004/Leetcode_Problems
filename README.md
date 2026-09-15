@@ -175,6 +175,7 @@
 | [1278-palindrome-partitioning-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [1745-palindrome-partitioning-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1745-palindrome-partitioning-iv) |
 | [1927-sum-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -325,6 +326,7 @@
 | [1510-stone-game-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1563-stone-game-v](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1563-stone-game-v) |
+| [1745-palindrome-partitioning-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1745-palindrome-partitioning-iv) |
 | [1872-stone-game-viii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
