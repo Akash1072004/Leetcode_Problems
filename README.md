@@ -172,6 +172,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1278-palindrome-partitioning-iii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1927-sum-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1927-sum-game) |
@@ -311,6 +312,7 @@
 | [1092-shortest-common-supersequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1143-longest-common-subsequence) |
+| [1278-palindrome-partitioning-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1278-palindrome-partitioning-iii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
