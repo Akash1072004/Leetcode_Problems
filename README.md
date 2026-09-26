@@ -94,6 +94,7 @@
 | [1552-magnetic-force-between-two-balls](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
 | [1563-stone-game-v](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1563-stone-game-v) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1872-stone-game-viii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
@@ -154,6 +155,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -192,6 +194,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1745-palindrome-partitioning-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1745-palindrome-partitioning-iv) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
