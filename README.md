@@ -100,6 +100,7 @@
 | [2080-range-frequency-queries](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2080-range-frequency-queries) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -360,6 +361,7 @@
 | [1745-palindrome-partitioning-iv](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1745-palindrome-partitioning-iv) |
 | [1872-stone-game-viii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
@@ -448,6 +450,7 @@
 | [0835-image-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2906-construct-product-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2906-construct-product-matrix) |
@@ -790,4 +793,5 @@
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
