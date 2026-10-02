@@ -12,29 +12,29 @@ public:
             firstMax = max(firstMax, nums[i]);
         }
 
-        bool foundSecond = false;
+        bool flag1 = false;
 
         for(int i = 0; i < n; i++) {
             if(nums[i] == firstMax) continue;
-            if(!foundSecond || nums[i] > secondMax) {
+            if(!flag1 || nums[i] > secondMax) {
                 secondMax = nums[i];
-                foundSecond = true;
+                flag1 = true;
             }
         }
 
-        if(!foundSecond) return firstMax;
+        if(!flag1) return firstMax;
 
-        bool foundThird = false;
+        bool flag2 = false;
 
         for(int i = 0; i < n; i++) {
             if(nums[i] == firstMax || nums[i] == secondMax) continue;
-            if(!foundThird || nums[i] > thirdMax) {
+            if(!flag2 || nums[i] > thirdMax) {
                 thirdMax = nums[i];
-                foundThird = true;
+                flag2 = true;
             }
         }
 
-        if(!foundThird) return firstMax;
+        if(!flag2) return firstMax;
 
         return thirdMax;
 
