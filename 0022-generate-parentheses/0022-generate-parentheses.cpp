@@ -18,8 +18,8 @@ public:
             if(valid(temp)) ans.push_back(temp);
             return;
         }
-        if(i < n) f(s, t, n, i+1, j, temp + s[i]); // take
-        if(j < n) f(s, t, n, i, j+1, temp + t[j]); // skip 
+        if(i < n) f(s, t, n, i+1, j, temp + s[i]); 
+        if(j < n) f(s, t, n, i, j+1, temp + t[j]); 
     }
 
     vector<string> generateParenthesis(int n) {
