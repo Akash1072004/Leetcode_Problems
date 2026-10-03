@@ -1,27 +1,30 @@
 class Solution {
 public:
-    vector<int> productExceptSelf(vector<int>& nums) {        
+    vector<int> productExceptSelf(vector<int>& nums) {
+        
         int n = nums.size();
-        int count = 0;
-        int p=1;
-        int idx= 2;
+        vector<int> prefProd(n, 1);
+        vector<int> suffProd(n, 1);
+
+        prefProd[0] = 1;
+        for(int i = 1; i < n; i++) {
+            prefProd[i] = prefProd[i-1]*nums[i-1];
+        }
+        for(int i = 0; i < n; i++){
+
+            cout<<prefProd[i]<<" ";
+        }
+        suffProd[n-1] = 1;
+        for(int i = n-2; i >= 0; i--) {
+            suffProd[i] = suffProd[i+1] * nums[i+1];
+        }
+        vector<int> ans(n);
+        
         for(int i = 0; i < n; i++) {
-            if(nums[i] == 0) {
-                count++;
-                idx=i;
-                continue;
-            }
-            p *= nums[i];
+            ans[i] = prefProd[i]* suffProd[i];
         }
-        vector<int> ans(n, 0);
-        if(count > 1) return ans;
-        if(count == 1){
-            ans[idx]=p;
-            return ans;
-        }
-        for(int i = 0; i < n; i++) {
-            ans[i]=p/nums[i];
-        }
+
         return ans;
+
     }
 };
