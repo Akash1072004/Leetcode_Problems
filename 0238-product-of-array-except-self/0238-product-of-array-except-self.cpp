@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int count = 0;
         int p=1;
-        int idx=-1;
+        int idx= 2;
         for(int i = 0; i < n; i++) {
             if(nums[i] == 0) {
                 count++;
