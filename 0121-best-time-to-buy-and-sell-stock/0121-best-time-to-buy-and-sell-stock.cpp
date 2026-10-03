@@ -16,6 +16,7 @@ public:
         int lastMin = prices[0];
         for(int i = 0; i < n-1; i++){
             int currMin = min(lastMin, prices[i]);
+            lastMin = currMin;
             int nextMax = suffMax[i+1];
             int profit = nextMax - currMin;
             maxProfit = max(maxProfit , profit);
