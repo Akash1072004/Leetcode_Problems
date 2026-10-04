@@ -57,6 +57,7 @@
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -621,6 +622,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
