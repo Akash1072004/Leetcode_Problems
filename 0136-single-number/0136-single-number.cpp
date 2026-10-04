@@ -2,12 +2,15 @@ class Solution {
 public:
     int singleNumber(vector<int>& nums) {
         int n=nums.size();
-        unordered_map<int,int> mp;
+        unordered_set<int> st;
         for(int i=0;i<n;i++){
-            mp[nums[i]]++;
+            if(st.count(nums[i])){
+                st.erase(nums[i]);
+            }
+            else st.insert(nums[i]);
         }
-        for(auto ele:mp){
-            if(ele.second==1) return ele.first;
+        for(auto ele:st){
+            return ele;
         }
         return 0;
     }
