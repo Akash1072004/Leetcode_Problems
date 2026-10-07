@@ -196,6 +196,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -449,6 +450,7 @@
 | [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -511,6 +513,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0210-course-schedule-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
