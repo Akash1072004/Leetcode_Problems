@@ -8,9 +8,9 @@ public:
             nums[i] = abs(nums[i]);
         }
 
-        for(int i = 0; i < n; i++) {
-            cout << nums[i] << " ";
-        }
+        // for(int i = 0; i < n; i++) {
+        //     cout << nums[i] << " ";
+        // }
 
         sort(nums.rbegin(), nums.rend());
 
