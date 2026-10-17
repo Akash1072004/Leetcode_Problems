@@ -128,6 +128,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3618-split-array-by-prime-indices](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
@@ -181,6 +182,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3663-find-the-least-frequent-digit](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
@@ -294,6 +296,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
