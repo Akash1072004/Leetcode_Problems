@@ -212,6 +212,7 @@
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0402-remove-k-digits](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -254,6 +255,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0045-jump-game-ii) |
+| [0402-remove-k-digits](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
@@ -344,6 +346,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -359,6 +362,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 ## Dynamic Programming
 |  |
