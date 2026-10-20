@@ -15,19 +15,6 @@ public:
         return count <= 1;
     }
 
-    // bool isSortable(int start, int k, vector<int>& temp) {
-    //     int count = 0;
-    //     int end = start + k;
-
-    //     for(int i = start; i < end; i++) {
-    //         if(temp[i] > temp[start + (i - start + 1) % k]) {
-    //             count++;
-    //         }
-    //     }
-
-    //     return count <= 1;
-    // }
-
     int sortableIntegers(vector<int>& nums) {
         
         // 7 6 5  ->  6 5 7  ->  5 7 6
