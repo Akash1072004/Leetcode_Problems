@@ -1,32 +1,32 @@
 class Solution {
 public:
-    // bool isSortable(int start, int k, vector<int>& temp) {
-    //     int end = start + k;
-    //     int count = 0;
-    //     for(int i = start; i < end; i++) {
-    //         if(i+1 == end) {
-    //             if(temp[i] > temp[start]) count++;
-    //         }
-    //         else if(temp[i] > temp[i+1]) {
-    //             count++;
-    //         }
-    //     }
-
-    //     return count <= 1;
-    // }
-
     bool isSortable(int start, int k, vector<int>& temp) {
-        int count = 0;
         int end = start + k;
-
+        int count = 0;
         for(int i = start; i < end; i++) {
-            if(temp[i] > temp[start + (i - start + 1) % k]) {
+            if(i+1 == end) {
+                if(temp[i] > temp[start]) count++;
+            }
+            else if(temp[i] > temp[i+1]) {
                 count++;
             }
         }
 
         return count <= 1;
     }
+
+    // bool isSortable(int start, int k, vector<int>& temp) {
+    //     int count = 0;
+    //     int end = start + k;
+
+    //     for(int i = start; i < end; i++) {
+    //         if(temp[i] > temp[start + (i - start + 1) % k]) {
+    //             count++;
+    //         }
+    //     }
+
+    //     return count <= 1;
+    // }
 
     int sortableIntegers(vector<int>& nums) {
         
