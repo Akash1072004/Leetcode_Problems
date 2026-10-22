@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -519,6 +520,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -857,6 +859,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0023-merge-k-sorted-lists](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tournament Sort
