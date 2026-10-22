@@ -870,6 +870,7 @@
 | [0061-rotate-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0092-reverse-linked-list-ii) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tournament Sort
 |  |
