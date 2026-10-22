@@ -22,6 +22,7 @@
 | [1872-stone-game-viii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2029-stone-game-ix) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -116,6 +117,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2573-find-the-string-with-lcp](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2573-find-the-string-with-lcp) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -763,6 +765,7 @@
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
