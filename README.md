@@ -9,6 +9,7 @@
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
+| [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
@@ -761,6 +762,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -905,4 +907,8 @@
 |  |
 | ------- |
 | [0851-loud-and-rich](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0851-loud-and-rich) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
