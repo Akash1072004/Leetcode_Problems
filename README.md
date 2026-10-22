@@ -513,6 +513,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0295-find-median-from-data-stream](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -865,6 +866,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Tournament Sort
 |  |
