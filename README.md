@@ -128,6 +128,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -192,6 +193,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -326,6 +328,7 @@
 | ------- |
 | [2029-stone-game-ix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3663-find-the-least-frequent-digit](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
