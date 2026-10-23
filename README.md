@@ -33,6 +33,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3618-split-array-by-prime-indices](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -198,6 +199,7 @@
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3663-find-the-least-frequent-digit](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3663-find-the-least-frequent-digit) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
@@ -260,6 +262,7 @@
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3664-two-letter-card-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3664-two-letter-card-game) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -319,6 +322,7 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
@@ -792,6 +796,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3556-sum-of-largest-prime-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
 | [3618-split-array-by-prime-indices](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 ## Bitmask
