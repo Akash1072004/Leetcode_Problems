@@ -217,6 +217,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0014-longest-common-prefix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
@@ -397,6 +398,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
@@ -539,6 +541,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
