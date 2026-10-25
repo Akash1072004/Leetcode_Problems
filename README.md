@@ -160,6 +160,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -473,6 +474,7 @@
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
 | [3665-twisted-mirror-path-count](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
@@ -570,6 +572,7 @@
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3665-twisted-mirror-path-count](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3665-twisted-mirror-path-count) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Depth-First Search
 |  |
 | ------- |
