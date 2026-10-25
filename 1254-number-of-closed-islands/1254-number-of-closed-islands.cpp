@@ -3,7 +3,7 @@ public:
     int n, m;
     bool dfs(vector<vector<int>>& grid, int i, int j) {
         if(i < 0 || j < 0 || i >= n || j >= m) return false;
-        if (grid[i][j] == 1) return true;
+        if(grid[i][j] == 1) return true;
         grid[i][j] = 1;
 
         bool a = dfs(grid, i+1, j);
