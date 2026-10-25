@@ -17,7 +17,7 @@ public:
             }
         }
 
-        if (ans == 1e9) return -1;
+        if(ans == 1e9) return -1;
         return ans;
 
     }
