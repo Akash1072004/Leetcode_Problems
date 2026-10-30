@@ -284,6 +284,7 @@
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -650,6 +651,7 @@
 | [3310-remove-methods-from-project](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Heap (Priority Queue)
 |  |
@@ -665,6 +667,7 @@
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Shortest Path
 |  |
@@ -675,6 +678,7 @@
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Design
 |  |
