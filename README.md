@@ -9,6 +9,7 @@
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
@@ -89,6 +90,7 @@
 | [0414-third-maximum-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -329,6 +331,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0414-third-maximum-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
