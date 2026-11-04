@@ -32,6 +32,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
@@ -144,6 +145,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -214,6 +216,7 @@
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3556-sum-of-largest-prime-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3556-sum-of-largest-prime-substrings) |
@@ -482,6 +485,7 @@
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -671,6 +675,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3780-maximum-sum-of-three-numbers-divisible-by-three](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3780-maximum-sum-of-three-numbers-divisible-by-three) |
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
@@ -900,6 +905,7 @@
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2302-count-subarrays-with-score-less-than-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Ordered Set
 |  |
 | ------- |
