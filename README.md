@@ -108,6 +108,7 @@
 | [1301-number-of-paths-with-max-score](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
@@ -338,6 +339,7 @@
 | [0414-third-maximum-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -507,6 +509,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1483-kth-ancestor-of-a-tree-node](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1483-kth-ancestor-of-a-tree-node) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1552-magnetic-force-between-two-balls) |
@@ -563,6 +566,7 @@
 | [0086-partition-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0086-partition-list) |
 | [0295-find-median-from-data-stream](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
