@@ -86,6 +86,7 @@
 | [0312-burst-balloons](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0403-frog-jump) |
@@ -200,6 +201,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0508-most-frequent-subtree-sum) |
@@ -338,6 +340,7 @@
 | [0217-contains-duplicate](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0414-third-maximum-number) |
@@ -365,6 +368,7 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [2029-stone-game-ix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -537,6 +541,7 @@
 | [0053-maximum-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -680,6 +685,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -969,6 +975,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 ## Queue
 |  |
 | ------- |
@@ -1025,4 +1032,8 @@
 |  |
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0508-most-frequent-subtree-sum) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
