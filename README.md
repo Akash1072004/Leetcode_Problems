@@ -15,6 +15,7 @@
 | [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0913-cat-and-mouse) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1406-stone-game-iii) |
@@ -103,6 +104,7 @@
 | [0835-image-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0835-image-overlap) |
 | [0851-loud-and-rich](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0851-loud-and-rich) |
 | [0877-stone-game](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0877-stone-game) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1004-max-consecutive-ones-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1254-number-of-closed-islands) |
@@ -345,6 +347,7 @@
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0414-third-maximum-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1096-brace-expansion-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1402-reducing-dishes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1402-reducing-dishes) |
@@ -542,6 +545,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3719-longest-balanced-subarray-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3719-longest-balanced-subarray-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -688,6 +692,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1368-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1882-process-tasks-using-servers) |
@@ -976,6 +981,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Queue
 |  |
 | ------- |
@@ -1000,6 +1006,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Bracket Sequences
 |  |
@@ -1036,4 +1043,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0347-top-k-frequent-elements) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
