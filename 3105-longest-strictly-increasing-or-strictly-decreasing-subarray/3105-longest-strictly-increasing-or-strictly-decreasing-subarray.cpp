@@ -21,7 +21,7 @@ public:
                 dec = 1;
             }
 
-            maxLen = max(maxLen, max(inc, dec));
+            maxLen = max({maxLen, inc, dec});
         }
 
         return maxLen;
