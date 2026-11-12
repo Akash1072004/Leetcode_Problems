@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -257,6 +258,7 @@
 | [0020-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
@@ -946,6 +948,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
