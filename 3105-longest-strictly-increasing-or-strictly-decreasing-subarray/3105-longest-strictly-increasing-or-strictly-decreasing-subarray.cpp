@@ -8,7 +8,6 @@ public:
         int inc = 1, dec = 1;
 
         for(int i = 1; i < n; i++) {
-
             if(nums[i] > nums[i-1]) {
                 inc++;
                 dec = 1;
@@ -26,6 +25,6 @@ public:
         }
 
         return maxLen;
-        
+
     }
 };
