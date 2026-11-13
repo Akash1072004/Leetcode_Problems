@@ -1057,6 +1057,7 @@
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0851-loud-and-rich](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0851-loud-and-rich) |
 ## Primality Test
 |  |
