@@ -100,6 +100,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
@@ -476,6 +477,7 @@
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0403-frog-jump) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0678-valid-parenthesis-string) |
@@ -582,6 +584,7 @@
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1096-brace-expansion-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1068,4 +1071,12 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
