@@ -12,6 +12,7 @@
 | [0067-add-binary](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -82,6 +83,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
@@ -216,6 +218,7 @@
 | [0012-integer-to-roman](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0037-sudoku-solver) |
+| [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0208-implement-trie-prefix-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0242-valid-anagram) |
@@ -1053,6 +1056,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0836-rectangle-overlap](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -1113,4 +1117,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
