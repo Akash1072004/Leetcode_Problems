@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -613,6 +614,7 @@
 | [0010-regular-expression-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
