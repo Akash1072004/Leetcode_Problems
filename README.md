@@ -10,6 +10,7 @@
 | [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -81,6 +82,7 @@
 | [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -895,6 +897,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
 | [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -934,6 +937,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -1070,6 +1074,7 @@
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0866-prime-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0866-prime-palindrome) |
 ## DP on Trees
 |  |
@@ -1091,4 +1096,12 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0494-target-sum) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
