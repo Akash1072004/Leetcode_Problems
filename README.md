@@ -13,6 +13,7 @@
 | [0070-climbing-stairs](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+| [0189-rotate-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -85,6 +86,7 @@
 | [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0152-maximum-product-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -612,6 +614,7 @@
 | [0042-trapping-rain-water](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0086-partition-list) |
+| [0189-rotate-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
