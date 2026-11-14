@@ -15,6 +15,7 @@
 | [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
 | [0189-rotate-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -629,6 +630,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0486-predict-the-winner) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
@@ -820,6 +822,7 @@
 | [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
