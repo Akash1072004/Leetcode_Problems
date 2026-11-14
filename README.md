@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
@@ -268,6 +269,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0132-palindrome-partitioning-ii) |
@@ -806,6 +808,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0136-single-number) |
@@ -974,6 +977,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0067-add-binary) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3498-reverse-degree-of-a-string) |
