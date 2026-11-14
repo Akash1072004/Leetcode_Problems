@@ -11,6 +11,7 @@
 | [0050-powx-n](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
@@ -470,6 +471,7 @@
 | [0070-climbing-stairs](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0085-maximal-rectangle) |
+| [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -864,6 +866,7 @@
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0113-path-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -877,6 +880,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0113-path-sum-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -887,6 +891,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Akash1072004/Leetcode_Problems/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Union-Find
