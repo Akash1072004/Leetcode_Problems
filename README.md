@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0263-ugly-number) |
 | [0343-integer-break](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
