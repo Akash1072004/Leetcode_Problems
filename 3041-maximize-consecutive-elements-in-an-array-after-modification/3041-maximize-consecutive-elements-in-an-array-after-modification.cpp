@@ -2,18 +2,18 @@ class Solution {
 public:
     int n;
     int dp[100004][2][2];
-    int f(vector<int> &nums, int i, int check, bool prev){
+    int f(vector<int> &nums, int i, bool ok, bool prev){
         if(i >= n) return 0;
-        if(dp[i][check][prev] != -1) return dp[i][check][prev];
+        if(dp[i][ok][prev] != -1) return dp[i][ok][prev];
         int res = 0;
-        if(check){
+        if(ok){
             int last = nums[i-1];
             if(prev) last++;
             if(nums[i] - last == 1){
-                res = max(res , 1 + f(nums, i+1, check, 0));
+                res = max(res , 1 + f(nums, i+1, ok, 0));
             }
             if(nums[i] == last){
-                res = max(res , 1 + f(nums, i+1, check, 1));
+                res = max(res , 1 + f(nums, i+1, ok, 1));
             }
             if(nums[i] == nums[i-1]){
                 res = max(res, f(nums, i+1, 1, prev));
@@ -24,7 +24,7 @@ public:
             res = max(res ,1 + f(nums, i+1, 1, 0));
             res = max(res , 1 + f(nums, i+1, 1, 1));
         }
-        return dp[i][check][prev] = res;
+        return dp[i][ok][prev] = res;
     }
     int maxSelectedElements(vector<int>& nums) {
         n = nums.size();
