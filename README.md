@@ -225,6 +225,7 @@
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
 | [3903-smallest-stable-index-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
@@ -276,6 +277,7 @@
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3779-minimum-number-of-operations-to-have-distinct-elements](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3779-minimum-number-of-operations-to-have-distinct-elements) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
+| [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## String
 |  |
 | ------- |
@@ -447,6 +449,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -456,6 +459,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0214-shortest-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## Stack
 |  |
 | ------- |
@@ -600,6 +604,7 @@
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3620-network-recovery-pathways) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3661-maximum-walls-destroyed-by-robots) |
+| [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -1176,4 +1181,8 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Akash1072004/Leetcode_Problems/tree/master/0149-max-points-on-a-line) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
