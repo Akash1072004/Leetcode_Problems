@@ -227,6 +227,7 @@
 | [3903-smallest-stable-index-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3934-smallest-unique-subarray](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3934-smallest-unique-subarray) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Hash Table
 |  |
@@ -386,6 +387,7 @@
 | [3781-maximum-score-after-binary-swaps](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3781-maximum-score-after-binary-swaps) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3816-lexicographically-smallest-string-after-deleting-duplicate-characters](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3816-lexicographically-smallest-string-after-deleting-duplicate-characters) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Sorting
 |  |
 | ------- |
@@ -579,6 +581,7 @@
 | [3742-maximum-path-score-in-a-grid](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3850-count-sequences-to-k](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3850-count-sequences-to-k) |
 | [3892-minimum-operations-to-achieve-at-least-k-peaks](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3892-minimum-operations-to-achieve-at-least-k-peaks) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3977-minimum-time-to-reach-target-with-limited-power](https://github.com/Akash1072004/Leetcode_Problems/tree/master/3977-minimum-time-to-reach-target-with-limited-power) |
 ## Binary Search
 |  |
